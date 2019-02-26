@@ -5,13 +5,13 @@ import SubNav from './SubNav';
 import { Route } from 'react-router-dom';
 
 const StyledNavWrapper = styled.div`
-	width: 50%;
+	width: 900px;
 	color: white;
 	height: 44px;
 	display: flex;
 	justify-content: space-between;
 	font-size: 14px;
-	margin: 0 40px;
+	margin: 0 60px;
 `;
 
 const StyledNavWrapperContainer = styled.div`
